@@ -77,7 +77,7 @@ CISSPの試験は本当に難しく、「そんなことまで聞かれるのか
 
 そして暫定合格の用紙をもらってから数分後（実際に確認したのは夜でしたが）
 
-<img src="{{site.baseurl}}/assets/img/cissp-passed.png" alt="CISSP合格メール">
+![CISSP合格メール](/assets/img/cissp-passed.png)
 
 CISSP 試験合格メールが届きました！
 

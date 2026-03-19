@@ -19,7 +19,7 @@ description: CPEを1年間稼いだ結果を報告します
 などでポイントをゲットすることができ、3年間で120ポイント貯めることが求められます。
 この1年間で溜めた結果を報告します。
 
-<img src="{{site.baseurl}}/assets/img/cpe-120-2025.png" alt="CPE">
+![CPE](/assets/img/cpe-120-2025.png)
 
 1年で120ポイント貯めました！！
 

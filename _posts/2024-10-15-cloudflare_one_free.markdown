@@ -53,7 +53,7 @@ CloudFlareのゼロトラスト技術に関してはCloudFlareエバンジェリ
 
 最後のGoogle ChromeでセキュアDNSを利用するところだけ、ChromeでなかなかセキュアDNSの設定変更箇所を見つけられず苦労しましたが、添付画像の位置にあります。
 
-<img src="{{site.baseurl}}/assets/img/CustomeDNSonChrome.jpg" alt="セキュアDNSの場所">
+![セキュアDNSの場所](/assets/img/CustomeDNSonChrome.jpg)
 
 次に、CloudFlare Zero Trustに今回提供された4つの機能について調べてみました。いったん調べた結果飲み記述しますが、後日実際にエージェントをインストールして動作を確認してみたいと思っています。
 
@@ -61,12 +61,12 @@ CloudFlareのゼロトラスト技術に関してはCloudFlareエバンジェリ
 [Cloudflare Zero Trust の CASB機能 をまとめてみた](https://dev.classmethod.jp/articles/cloudflare-zerotrust-casb-summary/)
 CASBはクラウドアクセスセキュリティブローカーのことで、クラウドへのアクセスを検知してブロックしたりすることで、企業内のシャドーITを防ぐ効果が期待できるソリューションのことです。CloudFlare ZeroTrustの内部ではそのものずばり「Shadow IT Discovery」という名前で、許可していないクラウドサービスへのアクセスを監視できるようです。先ほどセキュアDNSサーバの迂回によるWebアクセスフィルタリングはエージェントレスで実現できたものの、Webブラウザ限定でした。ここにあるCloudFlare WARPはエージェントとしてPCやスマートフォンに常駐し、VPN機能やCASBのようなフィルタリング機能を実現できるようです。
 
-<img src="{{site.baseurl}}/assets/img/CloudFlareZeroTrustShadowIT.jpg" alt="CASB">
+![CASB](/assets/img/CloudFlareZeroTrustShadowIT.jpg)
 
 ## DLP
 DLP（Data Loss Prevention）とは、機密情報や重要データを監視・保護し、漏洩や消失を防ぐためのシステムや製品のことを指します。クレジットカード情報やアクセスキー、パスワードが書かれているファイルのアップロードを防ぐような機能があります。
 
-<img src="{{site.baseurl}}/assets/img/CloudFlareZeroTrust_DLP.jpg" alt="DLP">
+![DLP](/assets/img/CloudFlareZeroTrust_DLP.jpg)
 
 [Cloudflare Zero Trust で DLP を実装してみた](https://dev.classmethod.jp/articles/cloudflare-dlp-implementation/)
 こちらの記事にあるように、ちゃんとDLPとして機能するようです。これが無料なのは凄い。

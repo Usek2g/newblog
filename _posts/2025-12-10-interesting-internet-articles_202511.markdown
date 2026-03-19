@@ -57,15 +57,15 @@ description: 2025年11月の気になった記事を読んでみる
 
 ローカルPCからAWSを操作する場合、IAMユーザのアクセスキーをローカルに格納し手利用する方法が一般的でしたが、これはアクセスキーが漏洩するセキュリティリスクから定期的にローテーションすることが求められる一方でローテーションが面倒だというジレンマがありました。それを解消する新機能がリリースされたということで、記事にあるようにやってみました。
 
-<img src="{{site.baseurl}}/assets/img/aws-login1.png" alt="awslogin">
+![awslogin](/assets/img/aws-login1.png)
 
 aws cliがこのPCにはインストールされていなかったので、インストール後aws loginを実行。初回なのでデフォルトで利用するリージョンを設定
 
-<img src="{{site.baseurl}}/assets/img/aws-login2.png" alt="ブラウザでログイン">
+![ブラウザでログイン](/assets/img/aws-login2.png)
 
 ブラウザで認証画面が表示されます。ここでログインユーザにルートユーザ化、IAMユーザを選択します。通常はIAMユーザを使うでしょう。
 
-<img src="{{site.baseurl}}/assets/img/aws-login3.png" alt="認証に成功">
+![認証に成功](/assets/img/aws-login3.png)
 
 認証に成功します。これでローカルでAWS CLIが利用できるようになります。
 

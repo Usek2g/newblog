@@ -26,13 +26,13 @@ description: Linux Foundationの「セキュアソフトウェア開発」を受
 最終問題は40問、80%以上正解しないと合格証書はもらえません。
 なかなかの難易度でしたが、一発で合格しました。プライドは保たれましたね・・・ｗ
 
-<img src="{{site.baseurl}}/assets/img/lfd121-result.jpg" alt="合格スコア">
+![合格スコア](/assets/img/lfd121-result.jpg)
 
 試験問題を含め、14時間程度で終了しました。公式アナウンスでは14〜18時間とありましたので、おおよそ標準所要時間と言えそうです。
 
 合格したことを示すバッジも手に入れました。
 
-<img src="{{site.baseurl}}/assets/img/lfd121budge.png" alt="バッジ">
+![バッジ](/assets/img/lfd121budge.png)
 
 今回の章も得るものがたくさんありました。
 

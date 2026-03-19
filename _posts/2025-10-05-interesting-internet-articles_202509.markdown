@@ -25,8 +25,7 @@ nxは人気のパッケージ管理システムnpmでインストールするこ
 
 文章で説明すると分かりにくいので画像にしました。まとめると以下のような挙動となります。この画像も生成AIに指示して作ってもらいました。正しく使えば便利なAIも悪用すれば破壊的な効果を持ちます。
 
-<img src="{{site.baseurl}}/assets/img/s1ngularity.png" alt="s1ngularity">
-
+![s1ngularity](/assets/img/s1ngularity.png)
 
 さらに9月は「Shai-Hulud」（シャイ・フルード）ワーム攻撃という「s1ngularity」攻撃と非常に似た手口を使いながら、より深刻なサプライチェーン攻撃がありました。
 

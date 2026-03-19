@@ -46,7 +46,7 @@ QRコード読み込みアプリもアプリストアで配布されています
 
 [サポート詐欺の偽セキュリティ警告はどんなときに出るのか？](https://www.ipa.go.jp/security/anshin/attention/2023/mgdayori20240227.html)
 
-<img src="{{site.baseurl}}/assets/img/fake-security-alert.png" alt="偽サポート画面">
+![偽サポート画面](/assets/img/fake-security-alert.png)
 
 マイクロソフトなど公式を名乗るサポートの電話番号にかけると、謎の外国人が怪しい日本語を喋りながら、遠隔操作のアプリのインストールを促してくるらしい・・・恐ろしいですね。
 
