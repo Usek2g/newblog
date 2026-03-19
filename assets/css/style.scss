@@ -8,3 +8,7 @@
     --panel-width: 250px;   
   }
 }
+
+#sidebar #sidebar-logo + #site-title {
+  font-size: 1.4rem; /* デフォルトより少し小さくする調整 */
+}
