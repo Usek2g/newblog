@@ -1,8 +1,12 @@
 ---
-# the default layout is 'page'
+# _tabs/about.md
+layout: page
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+専用線やEthernet回線のデリバリからデータセンターでのオペレータ、システムエンジニアなどなんでもやってきて、現在はセキュリティ担当かつクラウドエンジニアかつ情シスをやっています。
+セキュリティに関するインプットとアウトプットを目的にブログを書いています。
+保有資格：応用情報技術者,ネットワークスペシャリスト,情報処理安全確保支援士,AWS SAP,AWSセキュリティ専門,CISSPなど
+趣味：旅行・ランニング・温泉・ボードゲームなど
