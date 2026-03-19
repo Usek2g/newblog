@@ -4,7 +4,7 @@ title:  "【ブックレビュー】情報セキュリティの敗北史"
 date:   2023-03-19 22:50:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/vulnerablesystem.jpg # Add image post (optional)
+  path: assets/img/vulnerablesystem.jpg # Add image post (optional)
 tags: [Security] # add tag
 description: 脆弱性は何故生まれたのか、なぜ広まったのか
 ---

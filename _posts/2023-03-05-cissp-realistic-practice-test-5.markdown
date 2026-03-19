@@ -4,7 +4,7 @@ title:  "【ブックレビュー】CISSP Realistic Practice Test 5"
 date:   2023-03-05 22:50:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/CISSP_RealisticPracticeTest5.jpg # Add image post (optional)
+  path: assets/img/CISSP_RealisticPracticeTest5.jpg # Add image post (optional)
 tags: [Security,CISSP] # add tag
 description: kindle unlimitedで読むことのできるCISSP本CISSP Realistic Practice Test 5"を利用した感想
 ---

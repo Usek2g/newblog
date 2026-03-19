@@ -4,7 +4,7 @@ title:  "【ブックレビュー】パスキーのすべて"
 date:   2025-06-28 10:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/all-of-passkey.jpg # Add image post (optional)
+  path: assets/img/all-of-passkey.jpg # Add image post (optional)
 tags: [security,passkey] # add tag
 description: 僕の一推しの技術「パスキー」の本格的な書籍が遂に登場
 ---

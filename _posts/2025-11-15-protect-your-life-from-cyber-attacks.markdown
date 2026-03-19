@@ -4,7 +4,7 @@ title:  "サイバー攻撃から暮らしを守れ！"
 date:   2025-11-15 10:10:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/protect-your-life-from-cyber-attacks.jpg # Add image post (optional)
+  path: assets/img/protect-your-life-from-cyber-attacks.jpg # Add image post (optional)
 tags: [security] # add tag
 description: 今話題の高市早苗総理が7年前に書いたサイバー攻撃について書かれた本
 ---

@@ -4,7 +4,7 @@ title:  "【ブックレビュー】自由とセキュリティ"
 date:   2024-12-22 10:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/freedom-and-security.jpg
+  path: assets/img/freedom-and-security.jpg
  # Add image post (optional)
 tags: [security] # add tag
 description: セキュリティ"を守る引き換えに個人の自由を奪うことはどうなのか？

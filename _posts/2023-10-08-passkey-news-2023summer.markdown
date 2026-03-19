@@ -4,7 +4,7 @@ title:  "2023年夏のパスキーのいろいろな動き"
 date:   2023-10-08 22:50:27 +0900
 categories: news
 image:
-  path: /assets/img/passkey-hero.jpg
+  path: assets/img/passkey-hero.jpg
  # Add image post (optional)
 tags: [Security,passkeys] # add tag
 description: パスキーに関するニュースを紹介します

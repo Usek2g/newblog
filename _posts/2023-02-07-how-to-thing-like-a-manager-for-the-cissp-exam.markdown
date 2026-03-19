@@ -4,7 +4,7 @@ title:  "【ブックレビュー】HOW TO THINK LIKE A MANAGER FOR THE CISSP EX
 date:   2023-02-07 22:50:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/how-to-thing-like-a-manager-for-the-cissp-exam.jpg # Add image post (optional)
+  path: assets/img/how-to-thing-like-a-manager-for-the-cissp-exam.jpg # Add image post (optional)
 tags: [Security,CISSP] # add tag
 description: kindle unlimitedで読むことのできるCISSP本"HOW TO THINK LIKE A MANAGER FOR THE CISSP EXAM"を使用した感想
 ---

@@ -4,7 +4,7 @@ title:  "NotebookLMを使った試験学習"
 date:   2026-04-04 21:15:27 +0900
 categories: diary
 image:
-  path: /assets/img/FTR-1-300x150.png
+  path: assets/img/FTR-1-300x150.png
  # Add image post (optional)
 tags: [aws] # add tag
 description: 手作りノート（アナログ）とNotebookLM（デジタル）の融合

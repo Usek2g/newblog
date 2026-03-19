@@ -4,7 +4,7 @@ title:  "AWS認定DevOps Engineer Professionalを取得しました！"
 date:   2023-06-04 22:50:27 +0900
 categories: certification
 image:
-  path: /assets/img/AWS-Certified-DevOps-Engineer-Professional.png
+  path: assets/img/AWS-Certified-DevOps-Engineer-Professional.png
  # Add image post (optional)
 tags: [AWS,DevOps] # add tag
 description: AWS認定DevOps Engineer Professionalの取得を目指した経緯と取得までに何をやったのか

@@ -4,7 +4,7 @@ title:  "稼げるセキュリティ資格"
 date:   2023-11-20 22:50:27 +0900
 categories: news
 image:
-  path: /assets/img/certification_map.jpg
+  path: assets/img/certification_map.jpg
  # Add image post (optional)
 tags: [Security] # add tag
 description: セキュリティスペシャリストが稼げるという眉唾話

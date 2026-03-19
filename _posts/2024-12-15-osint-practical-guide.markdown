@@ -4,7 +4,7 @@ title:  "【ブックレビュー】OSINT実践ガイド"
 date:   2024-12-15 10:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/osint-practical-guide.jpg
+  path: assets/img/osint-practical-guide.jpg
  # Add image post (optional)
 tags: [security] # add tag
 description: インターネット上にある情報をインテリジェンスに高め、セキュリティを強化しよう

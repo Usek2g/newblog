@@ -4,7 +4,7 @@ title:  "【ブックレビュー】脅威インテリジェンスの教科書"
 date:   2023-08-20 22:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/cyber-threat-intelligence.jpg
+  path: assets/img/cyber-threat-intelligence.jpg
 # Add image post (optional)
 tags: [security] # add tag
 description: サイバー攻撃に対して「インテリジェンス」で立ち向かう

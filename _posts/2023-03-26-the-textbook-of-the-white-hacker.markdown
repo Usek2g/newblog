@@ -4,7 +4,7 @@ title:  "【ブックレビュー】ホワイトハッカーの教科書"
 date:   2023-03-26 22:50:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/the-textbook-of-the-white-hacker.jpg
+  path: assets/img/the-textbook-of-the-white-hacker.jpg
  # Add image post (optional)
 tags: [Security] # add tag
 description: ホワイトハッカーになるためには

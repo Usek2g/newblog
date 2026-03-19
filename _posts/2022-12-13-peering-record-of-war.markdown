@@ -4,7 +4,7 @@ title:  "【ブックレビュー】ピアリング戦記"
 date:   2022-12-13 22:50:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/peeringhistoryofwar.jpeg # Add image post (optional)
+  path: assets/img/peeringhistoryofwar.jpeg # Add image post (optional)
 tags: [Internet,Network] # add tag
 description: インターネットを提供する会社であるISP（インターネットサービスプロバイダー）同士が繋がり合う技術を「ピアリング」と言います。日本のISPの戦いの歴史を紐解きます。
 ---

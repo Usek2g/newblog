@@ -4,7 +4,7 @@ title:  "AIエージェント対決！Devinの堅牢開発 vs Takumiの脆弱性
 date:   2025-08-03 17:15:27 +0900
 categories: seminar
 image:
-  path: /assets/img/devin-vs-takumi.png # Add image post (optional)
+  path: assets/img/devin-vs-takumi.png # Add image post (optional)
 tags: [AI,security] # add tag
 description: コーディングも、その内容をチェックするのもAIの時代ってわけか…
 ---

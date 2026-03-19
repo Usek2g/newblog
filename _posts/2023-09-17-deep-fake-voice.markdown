@@ -4,7 +4,7 @@ title:  "ディープフェイクによる音声なりすまし"
 date:   2023-09-17 18:50:27 +0900
 categories: activity
 image:
-  path: /assets/img/ai_deepfake_y.png
+  path: assets/img/ai_deepfake_y.png
  # Add image post (optional)
 tags: [Security] # add tag
 description: サイバー情報共有イニシアティブ（J-CSIP） 運用状況にあった気になる話し

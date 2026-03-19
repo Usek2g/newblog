@@ -4,7 +4,7 @@ title:  "セキュリティチェックシート"
 date:   2023-06-18 22:50:27 +0900
 categories: column
 image:
-  path: /assets/img/clipboard4_check.png
+  path: assets/img/clipboard4_check.png
  # Add image post (optional)
 tags: [Security] # add tag
 description: セキュリティチェックシートのつらみと、せめてこうあってほしいという希望

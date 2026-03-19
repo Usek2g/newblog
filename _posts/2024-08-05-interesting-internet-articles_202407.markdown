@@ -4,7 +4,7 @@ title:  "2024年7月の気になるインターネット記事をピックアッ
 date:   2024-08-06 00:15:27 +0900
 categories: diary
 image:
-  path: /assets/img/incident_response_202407.jpeg
+  path: assets/img/incident_response_202407.jpeg
  # Add image post (optional)
 tags: [news] # add tag
 description: 2024年7月の気になった記事を読んでみる

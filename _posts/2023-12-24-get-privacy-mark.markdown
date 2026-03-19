@@ -4,7 +4,7 @@ title:  "ミッション：プライバシーマークを更新せよ"
 date:   2023-12-24 21:55:27 +0900
 categories: diary
 image:
-  path: /assets/img/pmark.jpg
+  path: assets/img/pmark.jpg
  # Add image post (optional)
 tags: [Security] # add tag
 description: この一年取り組んでいたプライバシーマーク更新業務について

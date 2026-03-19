@@ -4,7 +4,7 @@ title:  "生成AIによるサイバーセキュリティ実践ガイド"
 date:   2025-09-27 14:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/chatgpt-for-cybersecurity-cookbook.jpg # Add image post (optional)
+  path: assets/img/chatgpt-for-cybersecurity-cookbook.jpg # Add image post (optional)
 tags: [security,ai] # add tag
 description: LLMをブラウザから利用してサイバーセキュリティ活動に併走してもらうことは現在の業務でも実施しているが、プログラミング内でLLMを呼び出し、スケジューラでプログラムを実行することで、ログの調査や脆弱性診断の定常作業をAIに任せる、という考えは無かったため参考になった。実際に業務内で活用したい。
 ---

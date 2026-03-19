@@ -4,7 +4,7 @@ title:  "ITmedia Security 2024 Summer"
 date:   2024-09-07 00:15:27 +0900
 categories: seminar
 image:
-  path: /assets/img/itmedia-security-2024-summer.png
+  path: assets/img/itmedia-security-2024-summer.png
  # Add image post (optional)
 tags: [security] # add tag
 description: ITMedia Security 2024 Summerの気になるセミナーをいくつか視聴しました

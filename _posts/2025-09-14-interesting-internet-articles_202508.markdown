@@ -4,7 +4,7 @@ title:  "2025年8月の気になるインターネット記事をピックアッ
 date:   2025-09-15 09:15:27 +0900
 categories: diary
 image:
-  path: /assets/img/bill-gates-2002.jpg # Add image post (optional)
+  path: assets/img/bill-gates-2002.jpg # Add image post (optional)
 tags: [news] # add tag
 description: 2025年8月の気になった記事を読んでみる
 ---

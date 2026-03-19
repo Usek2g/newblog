@@ -4,7 +4,7 @@ title:  "2023年末の目についた記事をピックアップ"
 date:   2024-01-08 21:55:27 +0900
 categories: diary
 image:
-  path: /assets/img/passkey_msdesigner.jpg
+  path: assets/img/passkey_msdesigner.jpg
  # Add image post (optional)
 tags: [news] # add tag
 description: 2023年末から2024年始にかけて気になった記事を読んでみる

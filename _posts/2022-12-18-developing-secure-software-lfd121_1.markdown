@@ -4,7 +4,7 @@ title:  "Linux Foundationの「セキュアソフトウェア開発」を受講�
 date:   2022-12-18 10:50:27 +0900
 categories: online-training
 image:
-  path: /assets/img/lfd121-jp.png # Add image post (optional)
+  path: assets/img/lfd121-jp.png # Add image post (optional)
 tags: [security] # add tag
 description: Linux Foundationの「セキュアソフトウェア開発」を受講しました
 ---

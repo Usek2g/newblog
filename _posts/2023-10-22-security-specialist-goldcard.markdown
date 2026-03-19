@@ -4,7 +4,7 @@ title:  "登録セキスぺのゴールド免許証"
 date:   2023-10-22 22:50:27 +0900
 categories: news
 image:
-  path: /assets/img/menkyo_gold.png
+  path: assets/img/menkyo_gold.png
  # Add image post (optional)
 tags: [riss] # add tag
 description: 登録セキスぺの免許証がゴールドになるとのこと

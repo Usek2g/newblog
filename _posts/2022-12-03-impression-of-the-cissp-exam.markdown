@@ -4,7 +4,7 @@ title:  "CISSP受験の感想"
 date:   2022-12-03 14:30:27 +0900
 categories: column
 image:
-  path: /assets/img/CISSP-logo-2lines.png # Add image post (optional)
+  path: assets/img/CISSP-logo-2lines.png # Add image post (optional)
 tags: [CISSP] # add tag
 description: CISSP受験（不合格）の感想.
 ---

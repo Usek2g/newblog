@@ -4,7 +4,7 @@ title:  "業務で使えるメール技術の教科書"
 date:   2026-02-15 10:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/textbook-of-mail-technology.png # Add image post (optional)
+  path: assets/img/textbook-of-mail-technology.png # Add image post (optional)
 tags: [email] # add tag
 description: 当たり前のように利用している電子メールの裏側の技術について基本的なところから紹介
 ---

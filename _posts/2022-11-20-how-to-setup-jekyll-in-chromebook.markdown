@@ -4,7 +4,7 @@ title:  "Chromebook上にjekyllをインストールするまで"
 date:   2022-11-20 23:30:27 +0900
 categories:  tech-artile
 image:
-  path: /assets/img/software.jpg # Add image post (optional)
+  path: assets/img/software.jpg # Add image post (optional)
 tags: [Github Pages, jekyll] # add tag
 description: Chromebook上にjekyllをインストールするまでを書いた記事.
 ---

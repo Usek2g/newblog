@@ -4,7 +4,7 @@ title:  "ドッペルゲンガードメインにご注意を"
 date:   2023-04-22 22:50:27 +0900
 categories: incident
 image:
-  path: /assets/img/doppelganger.png
+  path: assets/img/doppelganger.png
  # Add image post (optional)
 tags: [Security] # add tag
 description: セキュリティ専門家のくせにドッペルゲンガードメインに引っかかる

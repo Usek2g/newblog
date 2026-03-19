@@ -4,7 +4,7 @@ title:  "BedrockとPineconeを使って資料特化型AIチャットを作成し
 date:   2026-04-11 11:15:27 +0900
 categories: diary
 image:
-  path: /assets/img/bedrock-pinecone-chatbot.png
+  path: assets/img/bedrock-pinecone-chatbot.png
  # Add image post (optional)
 tags: [aws,pinecone,ai,notebook] # add tag
 description: BedrockとPineconeを使って社内向けセキュリティ用AIチャットを作成した

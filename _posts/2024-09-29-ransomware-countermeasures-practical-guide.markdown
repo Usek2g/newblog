@@ -4,7 +4,7 @@ title:  "【ブックレビュー】ランサムウェア対策実践ガイド"
 date:   2024-09-29 12:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/ransomware-countermeasures-practical-guide.jpg
+  path: assets/img/ransomware-countermeasures-practical-guide.jpg
  # Add image post (optional)
 tags: [ransomware] # add tag
 description: ランサムウェアとその対策をすぐ取り掛かれてかつ具体的な手法で紹介

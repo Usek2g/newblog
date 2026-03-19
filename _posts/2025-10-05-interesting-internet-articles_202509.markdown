@@ -4,7 +4,7 @@ title:  "2025年9月の気になるインターネット記事をピックアッ
 date:   2025-10-05 19:15:27 +0900
 categories: diary
 image:
-  path: /assets/img/s1ngularity.png # Add image post (optional)
+  path: assets/img/s1ngularity.png # Add image post (optional)
 tags: [news] # add tag
 description: 2025年9月の気になった記事を読んでみる
 ---

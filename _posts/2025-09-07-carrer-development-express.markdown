@@ -4,7 +4,7 @@ title:  "ISC2のCareer Development Express Courses Bundleを受講した"
 date:   2025-09-07 20:50:27 +0900
 categories: course
 image:
-  path: /assets/img/career-development-express-courses-bundle.png # Add image post (optional)
+  path: assets/img/career-development-express-courses-bundle.png # Add image post (optional)
 tags: [security] # add tag
 description: 期間限定で無料のコースがアナウンスされていたので受講してみましたが、受講するまでがたいへんでした
 ---

@@ -4,7 +4,7 @@ title:  "【ブックレビュー】能動的サイバー防御"
 date:   2025-07-21 10:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/japan_active_cyber_defense.jpg # Add image post (optional)
+  path: assets/img/japan_active_cyber_defense.jpg # Add image post (optional)
 tags: [security] # add tag
 description: 現在ニュースにもなっている日本のサイバー政策の変遷について
 ---

@@ -4,7 +4,7 @@ title:  "AWS認定 AWS Security Specialityを更新しました"
 date:   2024-03-31 21:50:27 +0900
 categories: certification
 image:
-  path: /assets/img/AWS-Certified-Security-Specialty_badge.png
+  path: assets/img/AWS-Certified-Security-Specialty_badge.png
  # Add image post (optional)
 tags: [AWS,Security] # add tag
 description: AWSセキュリティ専門知識を更新しました

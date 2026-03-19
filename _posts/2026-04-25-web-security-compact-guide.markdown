@@ -4,7 +4,7 @@ title:  "Webセキュリティコンパクトガイド"
 date:   2026-04-25 10:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/websecuritycompactguide.jpg # Add image post (optional)
+  path: assets/img/websecuritycompactguide.jpg # Add image post (optional)
 tags: [security,ai] # add tag
 description: 攻撃の種類から具体的な対策アプローチまで
 ---

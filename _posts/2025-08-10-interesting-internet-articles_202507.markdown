@@ -4,7 +4,7 @@ title:  "2025年7月の気になるインターネット記事をピックアッ
 date:   2025-08-10 13:15:27 +0900
 categories: diary
 image:
-  path: /assets/img/security-checklist.jpeg # Add image post (optional)
+  path: assets/img/security-checklist.jpeg # Add image post (optional)
 tags: [news] # add tag
 description: 2025年7月の気になった記事を読んでみる
 ---

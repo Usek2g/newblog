@@ -4,7 +4,7 @@ title:  "【ブックレビュー】ランサムウェア追跡チーム"
 date:   2024-01-21 22:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/ransomware-hunting.jpg
+  path: assets/img/ransomware-hunting.jpg
  # Add image post (optional)
 tags: [security,ransomware] # add tag
 description: ランサムウェアを巡るギークな追跡チームとハッカーとの攻防

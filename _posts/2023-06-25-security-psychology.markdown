@@ -4,7 +4,7 @@ title:  "【ブックレビュー】セキュリティの心理学"
 date:   2023-06-25 22:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/securitypsychology.jpg
+  path: assets/img/securitypsychology.jpg
  # Add image post (optional)
 tags: [Security] # add tag
 description: 本というより「論文」心理学をセキュリティに活かす

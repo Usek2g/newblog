@@ -4,7 +4,7 @@ title:  "SIMスワップ攻撃に注意するよう社内喚起しました"
 date:   2023-05-29 08:50:27 +0900
 categories: activity
 image:
-  path: /assets/img/simswap.jpg
+  path: assets/img/simswap.jpg
  # Add image post (optional)
 tags: [Security] # add tag
 description: SIMスワップ攻撃への注意喚起を社内に行いました

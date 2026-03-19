@@ -4,7 +4,7 @@ title:  "CPEはどうやってゲットすればよいのか"
 date:   2025-01-26 10:15:27 +0900
 categories: column
 image:
-  path: /assets/img/cpe-0.jpg # Add image post (optional)
+  path: assets/img/cpe-0.jpg # Add image post (optional)
 tags: [CISSP] # add tag
 description: CPEを獲得する方法を調査しました。
 ---

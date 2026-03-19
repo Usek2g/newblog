@@ -4,7 +4,7 @@ title:  "AI・量子コンピュータにかかわるリスク管理"
 date:   2025-10-18 22:30:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/it-systems-affecetd-by-ai-and-quantum-computers.jpg # Add image post (optional)
+  path: assets/img/it-systems-affecetd-by-ai-and-quantum-computers.jpg # Add image post (optional)
 tags: [security] # add tag
 description: 最新テクノロジー量子コンピュータとAIが新たなセキュリティリスクを生み出す
 ---

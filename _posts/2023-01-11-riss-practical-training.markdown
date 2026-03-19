@@ -4,7 +4,7 @@ title:  "情報処理安全確保支援士の実践講習を受講しました"
 date:   2023-01-11 22:50:27 +0900
 categories: riss
 image:
-  path: /assets/img/riss.jpeg # Add image post (optional)
+  path: assets/img/riss.jpeg # Add image post (optional)
 tags: [security] # add tag
 description: 情報処理安全確保支援士（通称登録セキスペ）の3年に1度受講が必要な実践講習について
 ---

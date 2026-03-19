@@ -4,7 +4,7 @@ title:  "DMARC対応の完全ガイド：仕組みから運用回避策まで"
 date:   2026-03-20 21:15:27 +0900
 categories: diary
 image:
-  path: /assets/img/FTR-1-300x150.png
+  path: assets/img/FTR-1-300x150.png
  # Add image post (optional)
 tags: [aws] # add tag
 description: DMARC対応、苦労しました

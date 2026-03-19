@@ -4,7 +4,7 @@ title:  "個人情報保護セミナーをオンラインで受講しました"
 date:   2024-07-21 10:50:27 +0900
 categories: seminar
 image:
-  path: /assets/img/pi_protection_seminar.jpeg # Add image post (optional)
+  path: assets/img/pi_protection_seminar.jpeg # Add image post (optional)
 tags: [privacy] # add tag
 description: 日本データ通信協会が主催した個人情報保護に関するセミナーを受講した感想
 ---

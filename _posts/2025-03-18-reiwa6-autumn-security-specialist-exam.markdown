@@ -4,7 +4,7 @@ title:  "ウェビナー「こう出たR6秋セキスぺ解答解説」"
 date:   2025-03-18 21:15:27 +0900
 categories: diary
 image:
-  path: /assets/img/reiwa6-autumn-security-specialist-exam.jpg # Add image post (optional)
+  path: assets/img/reiwa6-autumn-security-specialist-exam.jpg # Add image post (optional)
 tags: [seminar] # add tag
 description: 昨年秋の情報処理安全確保支援士（旧セキスぺ）試験はどんな問題だったのだろう
 ---

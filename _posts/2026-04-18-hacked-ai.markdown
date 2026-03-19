@@ -4,7 +4,7 @@ title:  "騙されるAI"
 date:   2026-04-14 10:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/hacked_AI.jpg # Add image post (optional)
+  path: assets/img/hacked_AI.jpg # Add image post (optional)
 tags: [security,ai] # add tag
 description: 「不可解なパートナー」人工知能との付き合い方
 ---

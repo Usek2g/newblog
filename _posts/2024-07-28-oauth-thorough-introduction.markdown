@@ -4,7 +4,7 @@ title:  "【ブックレビュー】OAuth 徹底入門"
 date:   2024-07-28 12:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/oauth-thorough-introduction.jpg
+  path: assets/img/oauth-thorough-introduction.jpg
  # Add image post (optional)
 tags: [security,programming] # add tag
 description: OAuth2.0の仕組みから構築への実用的な指針までの詳細な解説

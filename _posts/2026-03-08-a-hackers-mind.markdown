@@ -4,7 +4,7 @@ title:  "ハッキング思考"
 date:   2026-03-08 10:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/a-hackers-mind.jpg # Add image post (optional)
+  path: assets/img/a-hackers-mind.jpg # Add image post (optional)
 tags: [hacking] # add tag
 description: 強者はいかにしてルールを歪めるのか、それを正すにはどうしたらいいのか
 ---

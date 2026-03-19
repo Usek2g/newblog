@@ -4,7 +4,7 @@ title:  "「isoon文書」とサイバー空間での「認知戦」について
 date:   2024-10-06 12:21:27 +0900
 categories: news
 image:
-  path: /assets/img/isoon.jpg
+  path: assets/img/isoon.jpg
  # Add image post (optional)
 tags: [cyber] # add tag
 description: NHKスペシャルでも取り上げられた中国のサイバー空間における活動について

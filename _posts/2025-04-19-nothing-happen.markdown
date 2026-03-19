@@ -4,7 +4,7 @@ title:  "「事なき」を「得る」ための活動"
 date:   2025-04-19 21:15:27 +0900
 categories: diary
 image:
-  path: /assets/img/sikasinanimookoranakatta.gif
+  path: assets/img/sikasinanimookoranakatta.gif
  # Add image post (optional)
 tags: [feeling] # add tag
 description: 「何も起こらない」を仕事とする人たちがいます、自分もその中の一人

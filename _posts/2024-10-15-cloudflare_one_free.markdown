@@ -4,7 +4,7 @@ title:  "CloudFlare Zero Trust無料化で何ができるのか調べてみた"
 date:   2024-10-15 00:21:27 +0900
 categories: product
 image:
-  path: /assets/img/cloudflareone.png
+  path: assets/img/cloudflareone.png
  # Add image post (optional)
 tags: [zerotrust,cloudflare] # add tag
 description: CloudFlare Zero Trustの一部サービスが無料化したとのこと、何ができるのだろう

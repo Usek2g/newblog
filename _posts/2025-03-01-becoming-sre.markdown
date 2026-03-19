@@ -4,7 +4,7 @@ title:  "【ブックレビュー】SREをはじめよう"
 date:   2025-03-01 10:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/becoming-sre.jpeg # Add image post (optional)
+  path: assets/img/becoming-sre.jpeg # Add image post (optional)
 tags: [sre] # add tag
 description: 一般的に定着しつつある「SRE」について改めて精査し、語る
 ---

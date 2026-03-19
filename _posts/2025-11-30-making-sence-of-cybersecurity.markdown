@@ -4,7 +4,7 @@ title:  "サイバーセキュリティの教科書"
 date:   2025-11-30 10:20:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/making-sence-of-cybersecurity.jpg # Add image post (optional)
+  path: assets/img/making-sence-of-cybersecurity.jpg # Add image post (optional)
 tags: [security] # add tag
 description: 教科書というより参考書、知っておくとサイバーセキュリティに対するイメージが広がります
 ---

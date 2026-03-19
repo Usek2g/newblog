@@ -4,7 +4,7 @@ title:  "CISSPに合格しました！"
 date:   2024-11-16 10:30:27 +0900
 categories: column
 image:
-  path: /assets/img/CISSP-logo-2lines.png # Add image post (optional)
+  path: assets/img/CISSP-logo-2lines.png # Add image post (optional)
 tags: [CISSP] # add tag
 description: CISSP受験合格までに何を思い、何をしてきたかを記します
 ---

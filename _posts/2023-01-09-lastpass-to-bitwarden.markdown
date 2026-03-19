@@ -4,7 +4,7 @@ title:  "LastPassからBitwardenに乗り換えました"
 date:   2023-01-09 10:50:27 +0900
 categories: software
 image:
-  path: /assets/img/Bitwarden_logo.svg.png # Add image post (optional)
+  path: assets/img/Bitwarden_logo.svg.png # Add image post (optional)
 tags: [security,lastpass,bitwarden] # add tag
 description: LastPassのセキュリティインシデントにより、Bitwardenへの乗り換えた方法をまとめました。
 

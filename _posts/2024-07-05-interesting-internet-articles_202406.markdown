@@ -4,7 +4,7 @@ title:  "2024年6月の気になるインターネット記事をピックアッ
 date:   2024-07-05 13:15:27 +0900
 categories: diary
 image:
-  path: /assets/img/ransomware.jpeg
+  path: assets/img/ransomware.jpeg
  # Add image post (optional)
 tags: [news] # add tag
 description: 2024年6月の気になった記事を読んでみる

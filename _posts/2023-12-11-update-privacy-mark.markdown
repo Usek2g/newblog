@@ -4,7 +4,7 @@ title:  "情報処理安全確保支援士(登録セキスぺ)が取得したい
 date:   2023-12-07 21:50:27 +0900
 categories: riss
 image:
-  path: /assets/img/riss.jpeg
+  path: assets/img/riss.jpeg
  # Add image post (optional)
 tags: [Security] # add tag
 description: 嘘か誠か。登録セキスぺが取得したい資格第1位に

@@ -4,7 +4,7 @@ title:  "ランサムウェアが流行ってます"
 date:   2025-10-25 10:15:27 +0900
 categories: diary
 image:
-  path: /assets/img/virus_ransomware_pc.png # Add image post (optional)
+  path: assets/img/virus_ransomware_pc.png # Add image post (optional)
 tags: [news] # add tag
 description: ランサムウェアの被害と対策についてまとめました
 ---

@@ -4,7 +4,7 @@ title:  "ハッキング・ラボのつくりかた 完全版"
 date:   2025-12-27 23:10:27 +0900
 categories: bookreview
 image:
-  path: /assets/img/how-to-make-hacking-lab.png # Add image post (optional)
+  path: assets/img/how-to-make-hacking-lab.png # Add image post (optional)
 tags: [hacking] # add tag
 description: 世間でいうペネトレーションテストRed vs Blueチームとはどんなことをやっているのかの基本を知る
 ---

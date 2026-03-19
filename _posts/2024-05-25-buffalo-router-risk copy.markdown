@@ -4,7 +4,7 @@ title:  "バッファローが一部Wi-Fiルーターで脆弱性の注意喚起
 date:   2024-05-25 13:15:27 +0900
 categories: news
 image:
-  path: /assets/img/WHR-1166DHP2__0100.jpg
+  path: assets/img/WHR-1166DHP2__0100.jpg
  # Add image post (optional)
 tags: [Security] # add tag
 description: バッファロー製の無線WiFiルータに脆弱性があり影響大とのこと。僕のWi-Fiルータに影響はなかったけど、念のための確認を行いました。

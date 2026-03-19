@@ -4,7 +4,7 @@ title:  "ネットにはびこる詐欺とウソ"
 date:   2024-12-08 12:15:27 +0900
 categories: diary
 image:
-  path: /assets/img/fake-security-alert.png
+  path: assets/img/fake-security-alert.png
  # Add image post (optional)
 tags: [news] # add tag
 description: 日経の特集、現代を生きる人たちが知っておくべき内容でした

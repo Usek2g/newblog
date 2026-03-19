@@ -4,7 +4,7 @@ title:  "1年間CPEを稼いだ結果"
 date:   2025-12-20 22:15:27 +0900
 categories: column
 image:
-  path: /assets/img/cpe-0.jpg # Add image post (optional)
+  path: assets/img/cpe-0.jpg # Add image post (optional)
 tags: [CISSP] # add tag
 description: CPEを1年間稼いだ結果を報告します
 ---
