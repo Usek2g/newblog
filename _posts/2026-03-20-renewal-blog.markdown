@@ -4,7 +4,7 @@ title:  "ブログをリニューアルしました"
 date:   2026-03-20 10:00:27 +0900
 categories: tech-artile
 image:
-  path: assets/img/rssfeed.jpg # Add image post (optional)
+  path: assets/img/20260320-blog-renrewal.png # Add image post (optional)
 tags: [github pages, jekyll] # add tag
 description: Chirpyを使いブログをリニューアル
 ---
