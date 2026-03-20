@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "経営層にセキュリティを理解させる技術"
+title:  "【ブックレビュー】経営層にセキュリティを理解させる技術"
 date:   2025-08-26 8:20:27 +0900
 categories: bookreview
 image:

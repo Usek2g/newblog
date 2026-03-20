@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ハッキング思考"
+title:  "【ブックレビュー】ハッキング思考"
 date:   2026-03-08 10:20:27 +0900
 categories: bookreview
 image:

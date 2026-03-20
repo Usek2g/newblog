@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "サイバー攻撃その瞬間　社長の決定"
+title:  "【ブックレビュー】サイバー攻撃その瞬間　社長の決定"
 date:   2026-02-14 10:20:27 +0900
 categories: bookreview
 image:

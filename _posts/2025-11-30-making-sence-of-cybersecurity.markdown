@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "サイバーセキュリティの教科書"
+title:  "【ブックレビュー】サイバーセキュリティの教科書"
 date:   2025-11-30 10:20:27 +0900
 categories: bookreview
 image:

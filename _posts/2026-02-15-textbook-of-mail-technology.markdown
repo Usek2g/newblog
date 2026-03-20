@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "業務で使えるメール技術の教科書"
+title:  "【ブックレビュー】業務で使えるメール技術の教科書"
 date:   2026-02-15 10:20:27 +0900
 categories: bookreview
 image:

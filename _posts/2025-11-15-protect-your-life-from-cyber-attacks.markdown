@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "サイバー攻撃から暮らしを守れ！"
+title:  "【ブックレビュー】サイバー攻撃から暮らしを守れ！"
 date:   2025-11-15 10:10:27 +0900
 categories: bookreview
 image:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "kindle unlimitedで読むことのできるCISSP本を調べてみた"
+title:  "【ブックレビュー】kindle unlimitedで読むことのできるCISSP本を調べてみた"
 date:   2023-01-31 22:50:27 +0900
 categories: bookreview
 image:
@@ -51,4 +51,3 @@ CISSP公式問題集は日本語版がありますが、ボリュームはそこ
 ※こちらはkindle unlimited対象外です。
 
 こちらを和訳してまずもう一度セキュリティの国際標準の考え方を体に染み込ませた後、”CISSP Realistic Practice Test”で腕試ししてみます。
-

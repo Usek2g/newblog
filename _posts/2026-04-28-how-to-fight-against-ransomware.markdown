@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ランサムウェア攻撃との戦い方"
+title:  "【ブックレビュー】ランサムウェア攻撃との戦い方"
 date:   2026-04-28 10:20:27 +0900
 categories: bookreview
 image:

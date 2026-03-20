@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ハッキング・ラボのつくりかた 完全版"
+title:  "【ブックレビュー】ハッキング・ラボのつくりかた 完全版"
 date:   2025-12-27 23:10:27 +0900
 categories: bookreview
 image:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AI・量子コンピュータにかかわるリスク管理"
+title:  "【ブックレビュー】AI・量子コンピュータにかかわるリスク管理"
 date:   2025-10-18 22:30:27 +0900
 categories: bookreview
 image:

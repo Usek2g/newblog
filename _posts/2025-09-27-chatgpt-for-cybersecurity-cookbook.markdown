@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "生成AIによるサイバーセキュリティ実践ガイド"
+title:  "【ブックレビュー】生成AIによるサイバーセキュリティ実践ガイド"
 date:   2025-09-27 14:20:27 +0900
 categories: bookreview
 image:

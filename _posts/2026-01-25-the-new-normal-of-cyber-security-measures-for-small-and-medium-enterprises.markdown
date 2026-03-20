@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "中堅・中小企業のための サイバーセキュリティ対策の新常識"
+title:  "【ブックレビュー】中堅・中小企業のための サイバーセキュリティ対策の新常識"
 date:   2026-01-25 09:00:27 +0900
 categories: bookreview
 image:
