@@ -6,7 +6,7 @@ categories: activity
 image:
   path: assets/img/syuraba.jpg
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: 社内のセキュリティ教育でバズった記事を紹介したくなりました
 ---
 

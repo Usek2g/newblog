@@ -6,7 +6,7 @@ categories: news
 image:
   path: assets/img/passkey-hero.jpg
  # Add image post (optional)
-tags: [Security,passkeys] # add tag
+tags: [security,passkeys] # add tag
 description: パスキーに関するニュースを紹介します
 ---
 

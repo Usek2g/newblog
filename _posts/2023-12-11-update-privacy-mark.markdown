@@ -6,7 +6,7 @@ categories: riss
 image:
   path: assets/img/riss.jpeg
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: 嘘か誠か。登録セキスぺが取得したい資格第1位に
 ---
 

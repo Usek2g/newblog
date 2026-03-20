@@ -6,7 +6,7 @@ categories: bookreview
 image:
   path: assets/img/cyber-crime-case-files-you-want-to-know-now.jpg
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: 2023年現在ホットなサイバー犯罪を取りあげた書籍。日本語で読みやすい。
 ---
 

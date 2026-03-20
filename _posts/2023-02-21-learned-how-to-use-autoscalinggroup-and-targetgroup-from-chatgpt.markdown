@@ -5,7 +5,7 @@ date:   2023-02-21 22:50:27 +0900
 categories: study
 image:
   path: assets/img/chatgpt.jpg # Add image post (optional)
-tags: [ChatGPT,AWS] # add tag
+tags: [chatgpt,aws] # add tag
 description: ChatGPTの回答を実際に手を動かして確かめてみた
 ---
 

@@ -6,7 +6,7 @@ categories: certification
 image:
   path: assets/img/AWS-Certified-DevOps-Engineer-Professional.png
  # Add image post (optional)
-tags: [AWS,DevOps] # add tag
+tags: [aws,devops] # add tag
 description: AWS認定DevOps Engineer Professionalの取得を目指した経緯と取得までに何をやったのか
 ---
 

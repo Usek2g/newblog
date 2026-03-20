@@ -6,7 +6,7 @@ categories: bookreview
 image:
   path: assets/img/thebox.jpg
  # Add image post (optional)
-tags: [Economy] # add tag
+tags: [economy] # add tag
 description: 現代社会を作り上げたのはあの単純な”箱”の存在だった
 ---
 

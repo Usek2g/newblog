@@ -6,7 +6,7 @@ categories: activity
 image:
   path: assets/img/fushin_kanyuu_denwa_5348.png
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: 世間を騒がせているスプーフィング攻撃によるオレオレ詐欺について調べてみました
 ---
 

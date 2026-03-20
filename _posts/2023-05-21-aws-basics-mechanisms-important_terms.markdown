@@ -6,7 +6,7 @@ categories: bookreview
 image:
   path: assets/img/aws-basics-mechanisms-important_terms.jpg
  # Add image post (optional)
-tags: [AWS] # add tag
+tags: [aws] # add tag
 description: 2023年に出版されそのボリュームから話題となったAWS解説本です
 ---
 

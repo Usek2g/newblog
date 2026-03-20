@@ -6,7 +6,7 @@ categories: incident
 image:
   path: assets/img/doppelganger.png
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: セキュリティ専門家のくせにドッペルゲンガードメインに引っかかる
 ---
 

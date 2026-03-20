@@ -6,7 +6,7 @@ categories: news
 image:
   path: assets/img/AuthyDesktop-Title.png
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: Authyのデスクトップ版がサポート終了します、モバイル版移行方法についてまとめました
 ---
 

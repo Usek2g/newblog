@@ -6,7 +6,7 @@ categories: certification
 image:
   path: assets/img/AWS-Certified-Security-Specialty_badge.png
  # Add image post (optional)
-tags: [AWS,Security] # add tag
+tags: [aws,security] # add tag
 description: AWSセキュリティ専門知識を更新しました
 ---
 

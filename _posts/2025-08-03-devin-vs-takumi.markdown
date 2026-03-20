@@ -5,7 +5,7 @@ date:   2025-08-03 17:15:27 +0900
 categories: seminar
 image:
   path: assets/img/devin-vs-takumi.png # Add image post (optional)
-tags: [AI,security] # add tag
+tags: [ai,security] # add tag
 description: コーディングも、その内容をチェックするのもAIの時代ってわけか…
 ---
 

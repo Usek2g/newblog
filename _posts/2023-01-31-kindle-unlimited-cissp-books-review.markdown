@@ -5,7 +5,7 @@ date:   2023-01-31 22:50:27 +0900
 categories: bookreview
 image:
   path: assets/img/CISSP-logo-2lines.png # Add image post (optional)
-tags: [Security,CISSP] # add tag
+tags: [security,cissp] # add tag
 description: kindle unlimitedで読むことのできるCISSP本を読み比べました
 ---
 

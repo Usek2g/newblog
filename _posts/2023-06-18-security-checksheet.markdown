@@ -6,7 +6,7 @@ categories: column
 image:
   path: assets/img/clipboard4_check.png
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: セキュリティチェックシートのつらみと、せめてこうあってほしいという希望
 ---
 

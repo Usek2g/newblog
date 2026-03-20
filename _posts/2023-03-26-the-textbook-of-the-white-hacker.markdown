@@ -6,7 +6,7 @@ categories: bookreview
 image:
   path: assets/img/the-textbook-of-the-white-hacker.jpg
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: ホワイトハッカーになるためには
 ---
 

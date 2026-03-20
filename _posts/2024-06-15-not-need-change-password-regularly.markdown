@@ -6,7 +6,7 @@ categories: news
 image:
   path: assets/img/computer_password.png
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: かつてお約束とされていた定期的なパスワード変更も、今では不要というのが正しい考え方
 ---
 

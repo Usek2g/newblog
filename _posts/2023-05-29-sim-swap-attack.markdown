@@ -6,7 +6,7 @@ categories: activity
 image:
   path: assets/img/simswap.jpg
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: SIMスワップ攻撃への注意喚起を社内に行いました
 ---
 

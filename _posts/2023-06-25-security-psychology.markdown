@@ -6,7 +6,7 @@ categories: bookreview
 image:
   path: assets/img/securitypsychology.jpg
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: 本というより「論文」心理学をセキュリティに活かす
 ---
 

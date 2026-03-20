@@ -6,7 +6,7 @@ categories: news
 image:
   path: assets/img/WHR-1166DHP2__0100.jpg
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: バッファロー製の無線WiFiルータに脆弱性があり影響大とのこと。僕のWi-Fiルータに影響はなかったけど、念のための確認を行いました。
 ---
 

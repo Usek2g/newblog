@@ -6,7 +6,7 @@ categories: diary
 image:
   path: assets/img/pmark.jpg
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: この一年取り組んでいたプライバシーマーク更新業務について
 ---
 

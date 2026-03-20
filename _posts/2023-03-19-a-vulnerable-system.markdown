@@ -5,7 +5,7 @@ date:   2023-03-19 22:50:27 +0900
 categories: bookreview
 image:
   path: assets/img/vulnerablesystem.jpg # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: 脆弱性は何故生まれたのか、なぜ広まったのか
 ---
 

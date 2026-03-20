@@ -5,7 +5,7 @@ date:   2022-12-08 22:50:27 +0900
 categories: online
 image:
   path: assets/img/img_regrowth2022-1-960x504.jpg # Add image post (optional)
-tags: [AWS,ClassMethod] # add tag
+tags: [aws,classmethod] # add tag
 description: 毎年恒例、「AWS re:Invent」のアップデート内容おさらい・まとめ的なお祭りイベント「CM re:Growth」の感想.
 ---
 AWS最大のイベントre:Invent。コロナ以来久しぶりのラスベガス開催です。

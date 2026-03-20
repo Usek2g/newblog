@@ -6,7 +6,7 @@ categories: diary
 image:
   path: assets/img/smartphone_shimon_ninsyou.png
  # Add image post (optional)
-tags: [Security,passkeys] # add tag
+tags: [security,passkeys] # add tag
 description: Microsoft Authenticatorを使いパスワードレスでログインする方法を紹介します
 ---
 

@@ -6,7 +6,7 @@ categories: news
 image:
   path: assets/img/certification_map.jpg
  # Add image post (optional)
-tags: [Security] # add tag
+tags: [security] # add tag
 description: セキュリティスペシャリストが稼げるという眉唾話
 ---
 

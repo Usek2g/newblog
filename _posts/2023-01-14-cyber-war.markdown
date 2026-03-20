@@ -5,7 +5,7 @@ date:   2023-01-14 22:50:27 +0900
 categories: bookreview
 image:
   path: assets/img/cyber-war.jpeg # Add image post (optional)
-tags: [Security,International] # add tag
+tags: [security,international] # add tag
 description: ずっと昔から行われていたOS,ソフトウェアのバグをもとにしたゼロデイとエクスプロイトを巡ってハッカー、企業、国家の活動について記した本（前編）
 ---
 

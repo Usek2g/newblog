@@ -6,7 +6,7 @@ categories: study
 image:
   path: assets/img/microsoft-defender-for-office365.png
  # Add image post (optional)
-tags: [Security,ZeroTrust] # add tag
+tags: [security,zerotrust] # add tag
 description: UdemyでMicrosoft 365 Defenderを紹介する動画が期間限定無料公開だったので勉強
 ---
 
