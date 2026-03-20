@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "NotebookLMを使った試験学習"
-date:   2026-04-04 21:15:27 +0900
+date:   2026-05-24 21:15:27 +0900
 categories: diary
 image:
   path: assets/img/FTR-1-300x150.png

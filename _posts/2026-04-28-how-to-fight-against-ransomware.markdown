@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ランサムウェア攻撃との戦い方"
-date:   2026-03-28 10:20:27 +0900
+date:   2026-04-28 10:20:27 +0900
 categories: bookreview
 image:
   path: assets/img/how-to-fight-against-ransomware.jpg # Add image post (optional)

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "BedrockとPineconeを使って資料特化型AIチャットを作成してみた(前編)"
+title:  "BedrockとPineconeを使って資料特化型AIチャットを作成してみた"
 date:   2026-04-11 11:15:27 +0900
 categories: diary
 image:
   path: assets/img/bedrock-pinecone-chatbot.png
  # Add image post (optional)
 tags: [aws,pinecone,ai,notebook] # add tag
-description: BedrockとPineconeを使って社内向けセキュリティ用AIチャットを作成した
+description: BedrockとPineconeを使って社内向けセキュリティ用AIチャットを作成した(未遂)
 ---
 
 近年サプライチェーンリスクが社会全体で認識されていて、取引先からも「御社はセキュリティ関連のルールは定められているのか」と問い合わせを受けることが多いです。セキュリティ担当としてきちんとルールを作成してきましたが、いくら情シスがルールに従い行動していても、肝心の従業員がルールを知り、守ってくれないと意味がありません。
