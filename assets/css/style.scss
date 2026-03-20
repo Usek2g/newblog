@@ -2,29 +2,30 @@
 ---
 @import "main";
 
-/* ==========================================
- * カスタムスタイル（PC・デスクトップ向け調整）
- * ========================================== */
-
-/* 画面幅が1200px以上のデスクトップ表示にのみ適用 */
-@media (min-width: 1200px) {
+/* すべての画面サイズ、または 992px 以上の広い画面で適用 */
+@media (min-width: 992px) {
   :root {
-    /* サイドバーの幅を広げ、右側のパネルを少し狭める */
-    --sidebar-width: 19rem; /* さらに少し広げて余裕を持たせました */
-    --panel-width: 250px;
+    /* サイドバーの幅を強制的に広げる */
+    --sidebar-width: 320px !important;
+    --panel-width: 230px;
   }
 
+  /* タイトルの調整 */
   #sidebar .site-title {
-    /* フォントサイズを調整し、絶対に改行させない */
-    font-size: 1.55rem;
-    white-space: nowrap;
-    letter-spacing: 0.1px; /* 文字間隔をわずかに詰めて収まりを良くする */
+    font-size: 1.5rem !important; /* 少し小さくして1行に収める */
+    white-space: nowrap !important; /* 絶対に改行させない */
+    display: block !important;
   }
 
-  #sidebar .site-description {
-    /* キャッチコピーもバランスを見て調整 */
-    font-size: 0.85rem;
+  /* サブタイトル（セキュリティの終わりのない道）の調整 */
+  #sidebar .site-subtitle {
+    font-size: 0.85rem !important;
+    white-space: nowrap !important; /* サブタイトルも1行に */
+    margin-top: 0.5rem;
   }
 }
 
-/* ========================================== */
+/* 念のため、サイドバー全体の幅を直接指定して補強 */
+#sidebar {
+  width: var(--sidebar-width);
+}
