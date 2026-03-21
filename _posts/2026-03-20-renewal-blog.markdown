@@ -183,7 +183,7 @@ Repository name を newblog から blog に変更して Rename。
 newblogディレクトリ配下でリモートURLの更新
 
 `
-git remote set-url origin https://github.com/Usek2g/blog.git
+git remote set-url origin https://github.com/ユーザ名/blog.git
 `
 その後config.yml の設定でbaseURLを"/blog"にします。
 git pushすれば、今までのURLで新しいブログが公開されます。
