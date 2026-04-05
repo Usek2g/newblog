@@ -1,0 +1,30 @@
+---
+---
+/* 1. まずテーマのメイン機能をすべて読み込む（これでレイアウトが復活します） */
+@import "main";
+
+/* 2. 日本語フォントを「変数レベル」で上書きする */
+/* これにより、テーマが内部で使っているフォントを根本から差し替えます */
+:root {
+  --font-family-base: "Helvetica Neue", Arial, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif !important;
+  --font-family-heading: "Helvetica Neue", Arial, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif !important;
+}
+
+/* 3. 強制適用（念押し） */
+html, body {
+  font-family: var(--font-family-base) !important;
+}
+
+/* 4. サイドバーのタイトルの大きさを調整 */
+#sidebar .site-title {
+    font-size: 1.35rem !important;
+    white-space: nowrap !important;
+}
+
+/* サブタイトルの幅を調整 */
+#sidebar .site-subtitle {
+    font-size: 0.8rem !important;
+    width: 85% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
