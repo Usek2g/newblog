@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "実務経験者に対する講習制度について"
-date:   2026-04-05 10:50:27 +0900
+date:   2026-04-25 10:50:27 +0900
 categories: diary
 image:
   path: assets/img/riss-experience-exemption.jpg # Add image post (optional)
