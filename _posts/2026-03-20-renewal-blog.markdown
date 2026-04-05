@@ -190,3 +190,34 @@ git pushすれば、今までのURLで新しいブログが公開されます。
 
 いかがだったでしょうか？Google Search Consoleの設定などもしましたが、簡単にブログをリニューアルすることができました。
 この文章も細かい表現やtypoをGemini Code Assistに直してもらいました。うーん、すごい時代だ。
+
+## ＜補足＞スタイルシートを変更する方法
+
+JekyllのChirpyテーマのデフォルトは漢字が中国語になることに気が付きました。これは拙いと解消方法をAIに解決方法を相談しても見当違いな解消方法を繰り返し（先ほど上手くいかなかった方法を何度も繰り返し「これが解決法です！」と自信を持って回答してくる）、埒が明かなかったので、自分で検索したらすぐ以下の記事が出てきました。
+
+[JekyllのChirpyテーマをカスタマイズしたい](https://singurilla.pages.dev/posts/want-to-customize-this-theme/)
+
+上記の記事によると
+https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/assets/css/jekyll-theme-chirpy.scss
+このファイルを/assets/css/フォルダ配下にjekyll-theme-chirpy.scssとして配置し、
+/* append your custom style below */
+配下にスタイルシートを記述すれば反映されることが分かりました。
+こんな感じに書くと、中国語漢字問題を解消することができます。
+
+```
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+/* 日本語フォントを強制するパッチ */
+html, body, p, div, h1, h2, h3, h4, h5, h6, a, span, li {
+    font-family: "Helvetica Neue", Arial, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif !important;
+}
+```
+
+AIに何でもかんでも聞くのは危険、過信せずに自分で調べることも疎かにしてはいけません。
