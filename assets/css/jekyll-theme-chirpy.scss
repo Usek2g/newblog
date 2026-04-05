@@ -1,26 +1,29 @@
 ---
 ---
+/* 1. テーマが読み込まれる前に「フォント変数」を定義する */
+$font-family-base: "Helvetica Neue", Arial, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+$font-family-heading: "Helvetica Neue", Arial, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif;
+
+/* 2. テーマのメイン機能を読み込む */
 @import "main";
 
-/* サイドバーのタイトルの大きさを調整 */
+/* 3. テーマの「スキン（レイアウトや色の根幹）」を読み込む（これでレイアウトが復活します） */
+@import "skins/{{ site.theme_mode | default: 'default' }}";
+
+/* 4. あなたが以前設定した「サイドバー」などの個別カスタム */
 #sidebar .site-title {
-    font-size: 1.35rem !important; /* ご指定のサイズ */
+    font-size: 1.35rem !important;
     white-space: nowrap !important;
 }
 
-/* サブタイトルの幅を調整 */
 #sidebar .site-subtitle {
     font-size: 0.8rem !important;
-    width: 85% !important; /* ご指定の幅 */
+    width: 85% !important;
     margin-left: auto;
     margin-right: auto;
 }
 
-/* 日本語フォントの優先順位を最上位に強制書き換え */
-:root {
-  --font-family-base: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif !important;
-}
-
-html, body, p, div, h1, h2, h3, h4, h5, h6, a, span {
-  font-family: "Helvetica Neue", Arial, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif !important;
+/* 5. 万が一の打ち消し用（念押し） */
+body {
+    font-family: $font-family-base !important;
 }
