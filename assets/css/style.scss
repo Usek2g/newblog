@@ -16,6 +16,11 @@
     margin-right: auto;
 }
 
-html, body {
-  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo", "MS PGothic", sans-serif !important;
+/* 日本語フォントの優先順位を最上位に強制書き換え */
+:root {
+  --font-family-base: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif !important;
+}
+
+html, body, p, div, h1, h2, h3, h4, h5, h6, a, span {
+  font-family: "Helvetica Neue", Arial, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif !important;
 }
