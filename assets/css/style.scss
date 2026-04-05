@@ -1,0 +1,26 @@
+---
+---
+/* 日本語フォントとレイアウトのカスタムスタイル */
+:root {
+  --font-family-base: "Helvetica Neue", Arial, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif !important;
+  --font-family-heading: "Helvetica Neue", Arial, "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", sans-serif !important;
+}
+
+/* 強制適用（念押し） */
+html, body {
+  font-family: var(--font-family-base) !important;
+}
+
+/* サイドバーのタイトルの大きさを調整 */
+#sidebar .site-title {
+    font-size: 1.35rem !important;
+    white-space: nowrap !important;
+}
+
+/* サブタイトルの幅を調整 */
+#sidebar .site-subtitle {
+    font-size: 0.8rem !important;
+    width: 85% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
