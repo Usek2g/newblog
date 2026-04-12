@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BedrockとPineconeを使って資料特化型AIチャットを作成してみた"
-date:   2026-04-12 11:15:27 +0900
+date:   2026-04-12 09:15:27 +0900
 categories: diary
 image:
   path: assets/img/security-ai-chat.png
@@ -220,3 +220,8 @@ AWS API Gateway には、高機能な「REST API」と、軽量・安価な「HT
 これで社内資料について回答してくれるAIチャットが出来上がりました。ここまで来たらあとはWebサーバ上でホスティングするもよし、S3にAPIを呼び出すjavascriptを記載したhtmlファイルを配置してアクセスするもよし、SlackやTeamsと連携するもよしです。ローカルでhtmlファイルからJavaScriptでAPIGatewayのARNを呼び出して使うこともできます。
 
 ・・・と思っていたんだよな。ここまで書いた記事を、1か月後もう一度動かそうとしたら、使っていたAIモデルが動かなくなり(Haiku 3.5が利用できなくなりました）、IAMロールの設定変更やLambdaのコードをいろいろ直すも呼び出すことができなくなり積みました。まさか1か月でプロダクトがゴミになるとは。AIの進化のスピードの速さを実感しました。
+
+今回作成したインフラはAWS SAMを使ってIaC化しました。以下に公開しています。
+
+https://github.com/Usek2g/bedrock-pinecone-chatbot
+
